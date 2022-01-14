@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.260RClassWork.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../:\Git260R\260RClassWork\.idea\.idea.260RClassWork\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
